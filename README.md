@@ -13,3 +13,5 @@
 - блочные (p, H1 и тп)
 - строчные ( a и тп)
 - семантические (header, footer, main, article, nav)
+
+https://fakeimg.pl/ картинки
